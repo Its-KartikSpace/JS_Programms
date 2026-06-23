@@ -5,7 +5,8 @@
 var car= {
     Brand: "Toyoto",
     Model: "2005",
-    price: 2000000 
+    price: 2000000
 };
 console.log(car['Brand']);
 console.log(car['price']);
+
